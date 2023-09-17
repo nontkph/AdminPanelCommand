@@ -1,8 +1,7 @@
-local Commands = {}
-print("Loading...")
-function Commands.Dummy(  )
+{
+
+function Dummy(  )
   print("Dummy Function Is Connect")
-end
+end,
 
-
-return Commands
+}
