@@ -1,10 +1,9 @@
-function ()
-  local Commands = {
-    
-    function Dummy(  )
-      print("Dummy Function Is Connect")
-    end,
-    
-  }
-  return Commands
-end
+local Commands = {
+  
+  function Dummy(  )
+    print("Dummy Function Is Connect")
+  end,
+  
+}
+print("Load")
+local AmongUs = true
