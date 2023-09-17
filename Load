@@ -1,4 +1,5 @@
 local Commands = {}
+print("Loading...")
 function Commands.Dummy(  )
   print("Dummy Function Is Connect")
 end
