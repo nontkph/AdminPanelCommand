@@ -1,5 +1,5 @@
 print("Loaded")
-Command = {}
+local Command = {}
 function Command.Dummy()
   print("Dummy")
 end
