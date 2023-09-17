@@ -6,5 +6,5 @@ function ()
     end,
     
   }
-  
+  return Commands
 end
